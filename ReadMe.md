@@ -30,3 +30,14 @@ cd insta-mass-report
 pip install -r requirements.txt
 
 python main.py
+
+```bash
+python instagram_reporter.py [options]
+
+Options:
+  -t, --target USERNAME   Target Instagram username
+  -u, --username USERNAME Your Instagram username
+  -p, --password PASSWORD Your Instagram password
+  --proxy-file FILE       Path to proxy list file
+  --scrape-proxies        Scrape fresh proxies automatically
+  --no-verify            Skip ban verification (not recommended)
