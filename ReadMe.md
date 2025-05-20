@@ -23,9 +23,9 @@ A powerful tool to mass report Instagram accounts with automatic ban verificatio
 ### Setup
 ```bash
 
-git clone https://github.com/yourusername/instagram-mass-reporter.git
+git clone https://github.com/ropuk019/Insta-mass-report.git
 
-cd instagram-mass-reporter
+cd insta-mass-report
 
 pip install -r requirements.txt
 
