@@ -25,10 +25,15 @@ A powerful tool to mass report Instagram accounts with automatic ban verificatio
 
 Options:
   -t, --target USERNAME   Target Instagram username
+  
   -u, --username USERNAME Your Instagram username
+  
   -p, --password PASSWORD Your Instagram password
+  
   --proxy-file FILE       Path to proxy list file
+  
   --scrape-proxies        Scrape fresh proxies automatically
+  
   --no-verify            Skip ban verification (not recommended)
 
   
@@ -37,7 +42,7 @@ Options:
 
 git clone https://github.com/ropuk019/Insta-mass-report.git
 
-cd insta-mass-report
+cd Insta-mass-report
 
 pip install -r requirements.txt
 
